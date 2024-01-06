@@ -8,7 +8,7 @@ const CTA = () => {
       <div className='flex-1 flex flex-col'>
         <h2 className={styles.heading2}>Let's try our service now!</h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          Everything you need to accept card payments and grow your business anywhere on the planet.
+        Providing you with a seamless experience of hiring cooks and enjoying delightful meals, featuring a variety of world cuisines or homemade delights.
         </p>
       </div>
       <div className={`${styles.flexCenter} sm:ml-10 ml-0`}>

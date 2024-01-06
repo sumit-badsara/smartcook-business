@@ -24,13 +24,13 @@ export const navLinks = [
     id: "features",
     title: "Features",
   },
-  {
-    id: "product",
-    title: "Product",
-  },
+  // {
+  //   id: "product",
+  //   title: "Product",
+  // },
   {
     id: "clients",
-    title: "Clients",
+    title: "User Reviews",
   },
 ];
 
@@ -38,23 +38,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Trusted Cooks",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "The best vouched cooks near your locality, who can cook delivious yet healthy meals.",
   },
   {
     id: "feature-2",
     icon: shield,
     title: "100% Secured",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "We do all the necessary onboarding formalities of validating documents of cook before listing them on our platform",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Cook Change",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "We allow for cook change request in the middle of arrangements, so that you have the freedom to choose.",
   },
 ];
 
@@ -62,44 +62,44 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
-    title: "Founder & Leader",
-    img: people01,
+      "This app has revolutionized my dining experience, connecting me with skilled cooks in the city for delightful and affordable meals – a true game-changer!",
+    name: "Sumit Badsara",
+    title: "Software Developer @ Abnormal Security",
+    img: people03,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
-    title: "Founder & Leader",
+      "Discovering this app was a game-changer for me; now, I effortlessly find top-notch cooks in the city, enjoying delicious meals at pocket-friendly prices. Highly recommend!",
+    name: "Dipanshu Daga",
+    title: "Graphics and Marketing @ MoMoney",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
-    title: "Founder & Leader",
-    img: people03,
+      "An exceptional app that not only connects me with excellent local cooks but also makes relishing affordable and delectable meals a delightful experience!",
+    name: "Pratibha Shrivastav",
+    title: "Software Developer @ Adobe",
+    img: people01,
   },
 ];
 
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
-    value: "3800+",
+    title: "Cook Profiles",
+    value: "50+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
-    value: "230+",
+    title: "Reviews by Users",
+    value: "100+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "Meals served",
+    value: "365+",
   },
 ];
 
