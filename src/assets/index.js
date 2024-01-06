@@ -20,9 +20,9 @@ import facebook from "./facebook.svg";
 import instagram from "./instagram.svg";
 import linkedin from "./linkedin.svg";
 import twitter from "./twitter.svg";
-import people01 from "./people01.png";
-import people02 from "./people02.png";
-import people03 from "./people03.png";
+import people01 from "./pratibha.png";
+import people02 from "./daga.png";
+import people03 from "./sumit.png";
 
 export {
   airbnb,

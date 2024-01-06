@@ -40,7 +40,7 @@ export const features = [
     icon: star,
     title: "Trusted Cooks",
     content:
-      "The best vouched cooks near your locality, who can cook delivious yet healthy meals.",
+      "The best vouched cooks near your locality, who can cook delicious yet healthy meals.",
   },
   {
     id: "feature-2",
